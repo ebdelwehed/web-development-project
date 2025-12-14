@@ -1,0 +1,23 @@
+div{
+width: 50%;
+margin: 25%;
+
+
+}
+
+body {
+  background-color: #000000;
+ 
+}
+
+h1,p{
+    color: white;
+    font-family: libre baskerville;
+    text-align: center
+    margin-left: match-parent;
+
+}
+
+img{
+    border: white 5px solid;
+}
